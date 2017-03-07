@@ -23,7 +23,7 @@ defmodule Diet.Mixfile do
     [
       app:     :diet,
       version: @version,
-      elixir:  "~> 1.5-dev",
+      elixir:  "~> 1.4",
       deps:    @deps,
       package: package(),
       description:     @description,
